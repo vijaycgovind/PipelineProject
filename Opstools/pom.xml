@@ -12,7 +12,7 @@
 	<artifactId>Opstools</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Opstools</name>
-	<description>Demo project for Spring Boot</description>
+	<description>This is my project</description>
 
 	<properties>
 		<java.version>1.8</java.version>
