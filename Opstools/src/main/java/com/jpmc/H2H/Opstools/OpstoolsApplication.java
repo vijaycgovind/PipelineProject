@@ -10,6 +10,7 @@ public class OpstoolsApplication {
 		SpringApplication.run(OpstoolsApplication.class, args);
 		System.out.println("Jai Vinayaka");
 		System.out.println("Jai Hanuman");
+		
 	}
 
 }
